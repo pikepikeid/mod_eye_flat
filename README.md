@@ -16,3 +16,6 @@
 menuとtexをMODフォルダにポイすればいいよ。
 
 ![作例](https://github.com/pikepikeid/mod_eye_flat/blob/master/sample.jpg)
+
+## ダウンロード
+右上の「Clone or download」から、もしくは[こちら](https://github.com/pikepikeid/mod_simple_highlight/releases/)
